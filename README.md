@@ -1,51 +1,62 @@
 # BIDS at OHBM Hackathon 2026
 
-Welcome to the Brain Imaging Data Structure (BIDS) participation in the OHBM BrainHack 2026! This repository coordinates our 1.5-day workshop and hackathon activities.
+Welcome to the Brain Imaging Data Structure (BIDS) participation in the OHBM BrainHack 2026! This repository coordinates our workshop and hackathon activities.
 
 ## Overview
 
-BIDS is participating in the OHBM hackathon to showcase ongoing developments, gather community feedback, and foster collaboration on advancing neuroimaging data standards. Our workshop will present various ongoing developments including schema enhancements and BIDS Extension Proposals (BEPs), with opportunities to contribute through hackathon projects.
+BIDS is participating in the OHBM hackathon to showcase ongoing developments, gather community feedback, and foster collaboration on advancing neuroimaging data standards. Our activities will present various ongoing developments including schema enhancements and BIDS Extension Proposals (BEPs), with opportunities to contribute through hackathon projects.
 
 Reference: [OHBM Hackathon 2025 Website](https://ohbm.github.io/hackathon2025/)
 
-## Workshop Schedule (1.5 Days)
+## How to Participate
 
-### Day 1 - Morning Session (9:00 AM - 12:00 PM)
-- **9:00 - 9:30**: Welcome and Introduction to BIDS
+As soon as registration opens, we will point to the official hackathon project submissions. In the meantime:
+- **File an issue** in this repository to propose or discuss project ideas
+- **Open a pull request** to improve or add to these materials (README, documentation, etc.)
+- Check out [previous year's hackathon projects](https://ohbm.github.io/hackathon2025/) for inspiration
+
+## Tentative Schedule
+
+**Note: This schedule is tentative and subject to change based on the main hackathon program.**
+
+### Day 1 - Afternoon Session (after main hackathon opening)
+BIDS activities begin after the main OHBM hackathon opening session.
+
+- **Welcome and Introduction to BIDS**
   - Overview of BIDS standards and community
   - Recent updates and roadmap
-- **9:30 - 10:30**: BIDS Schema Developments
+- **BIDS Schema Developments**
   - Current schema architecture
   - Ongoing improvements and refactoring efforts
   - Community contributions and how to get involved
-- **10:30 - 10:45**: Break
-- **10:45 - 12:00**: Active BIDS Extension Proposals (BEPs)
+- **Active BIDS Extension Proposals (BEPs)**
   - Overview of the BEP process
   - Spotlight on active BEPs seeking community input
   - Q&A and discussion
-
-### Day 1 - Afternoon Session (1:00 PM - 5:00 PM)
-- **1:00 - 2:30**: BEP Deep Dives
+- **BEP Deep Dives**
   - Detailed presentations of specific BEPs
   - Technical discussions and implementation considerations
-- **2:30 - 3:00**: Hackathon Project Pitches
-  - Presentation of proposed hackathon projects
-  - Team formation and project selection
-- **3:00 - 3:15**: Break
-- **3:15 - 5:00**: Hackathon - Session 1
+- **Hackathon Work Session**
   - Begin work on selected projects
   - Mentors available for guidance
 
-### Day 2 - Morning Session (9:00 AM - 12:30 PM)
-- **9:00 - 10:00**: Hackathon - Session 2
-  - Continue project work
-- **10:00 - 10:15**: Break
-- **10:15 - 11:45**: Hackathon - Final Sprint
-  - Finalize projects and prepare presentations
-- **11:45 - 12:30**: Project Presentations and Wrap-up
-  - Teams present their work
-  - Community feedback and next steps
-  - Closing remarks
+**Note**: Hackathon project pitches will be presented during the main event sessions.
+
+### Day 2 - Full Day
+- **Morning Session**: Continue hackathon work
+  - Project development and collaboration
+  - Mentors available for guidance
+- **Afternoon Session**: BIDS Maintainers and Steering Group Meeting
+  - *Non-public, dedicated to BIDS maintainers and steering group*
+  - Internal discussions and planning
+  - Continue through early Day 3
+
+### Day 3 - Morning and Afternoon
+- **Morning Session**: BIDS Maintainers and Steering Group Meeting (continued)
+  - Wrap up internal discussions
+- **Afternoon Session**: Join Main BrainHack Event
+  - Participate in final presentations and community activities
+  - Share outcomes and celebrate successes
 
 ## Ongoing BIDS Developments
 
@@ -61,67 +72,66 @@ The BIDS schema is the machine-readable representation of the BIDS specification
 
 ### Active BIDS Extension Proposals (BEPs)
 
-BEPs are proposals for extending BIDS to new data modalities or use cases. Current active BEPs include:
+BEPs are proposals for extending BIDS to new data modalities or use cases. 
 
-- **BEP034**: Computational Models
-- **BEP035**: Atlases
-- **BEP036**: Phenotypic Data
-- **BEP037**: Non-Invasive Brain Stimulation (NIBS)
-- **BEP038**: Ultrasound
-- **BEP039**: Dimensionality Reduction
-- **BEP040**: Functional Ultrasound (fUS)
+**Interested in working on a BEP during the hackathon?** Any active BEP can be taken as a hackathon project! 
 
-For a complete list and status, see: [BIDS Extension Proposals](https://bids.neuroimaging.io/get_involved.html#extending-the-bids-specification)
+Placeholder list of BEPs that may be featured:
+- *To be determined based on community interest*
+- *Open a PR to propose a BEP you'd like to work on*
 
-## Proposed Hackathon Projects
+For a complete list and status of all BEPs, see: [BIDS Extension Proposals](https://bids.neuroimaging.io/get_involved.html#extending-the-bids-specification)
 
-### Project Ideas
+## Hackathon Project Types
 
-#### 1. BIDS Validator Enhancements
-- **Description**: Contribute to the BIDS validator with new rules or performance improvements
+Hackathon projects can take many forms. Here are some types of projects that have been successful in the past:
+
+### Examples of Project Types
+
+#### BIDS Validator Enhancements
+Contribute to the BIDS validator with new rules or performance improvements.
 - **Skills**: Python, JavaScript, schema validation
-- **Mentors**: TBD
 - **Repository**: [bids-standard/bids-validator](https://github.com/bids-standard/bids-validator)
 
-#### 2. BEP Implementation Support
-- **Description**: Help implement support for specific BEPs in BIDS tools
-- **Skills**: Python, data structure design
-- **Mentors**: TBD
-- **Focus Areas**: Choose from active BEPs listed above
+#### BEP Implementation and Development
+Help implement or advance a specific BEP. Any active BEP can be taken as a hackathon project!
+- **Skills**: Python, data structure design, domain knowledge
+- **Resources**: [BIDS Extension Proposals](https://bids.neuroimaging.io/get_involved.html#extending-the-bids-specification)
 
-#### 3. BIDS Examples and Tutorials
-- **Description**: Create example datasets or tutorials for new BIDS users
+#### BIDS Examples and Tutorials
+Create example datasets or tutorials for new BIDS users.
 - **Skills**: Documentation, data organization, teaching
-- **Mentors**: TBD
 - **Repository**: [bids-standard/bids-examples](https://github.com/bids-standard/bids-examples)
 
-#### 4. Schema Documentation Improvements
-- **Description**: Enhance schema documentation and developer guides
+#### Schema Documentation Improvements
+Enhance schema documentation and developer guides.
 - **Skills**: Technical writing, JSON schema, documentation tools
-- **Mentors**: TBD
 
-#### 5. BIDS Converter Tools
-- **Description**: Develop or improve converters for specific data formats to BIDS
+#### BIDS Converter Tools
+Develop or improve converters for specific data formats to BIDS.
 - **Skills**: Python, data format knowledge, neuroimaging
-- **Mentors**: TBD
 
-#### 6. BIDS Apps Integration
-- **Description**: Update or create BIDS Apps for specific analysis pipelines
+#### BIDS Apps Integration
+Update or create BIDS Apps for specific analysis pipelines.
 - **Skills**: Docker, neuroimaging analysis, pipeline development
-- **Mentors**: TBD
 - **Reference**: [BIDS Apps](https://bids-apps.neuroimaging.io/)
 
-### How to Propose a Project
+### Inspiration from Previous Years
 
-Have an idea for a hackathon project? We welcome community proposals!
+Check out projects from previous OHBM hackathons for inspiration:
+- [OHBM 2025 Hackathon Projects](https://ohbm.github.io/hackathon2025/)
 
-1. Open an issue in this repository with the label "project-proposal"
-2. Include:
+### How to Propose or Discuss a Project
+
+Have an idea or want to discuss a potential project?
+
+1. **File an issue** in this repository to propose or discuss project ideas
+2. **Open a pull request** to add information or resources that would help with a project
+3. Include in your proposal:
    - Project title and description
    - Required skills
    - Expected outcomes
    - Any relevant links or resources
-3. We'll discuss and potentially add it to the list above
 
 ## Resources
 
