@@ -19,7 +19,7 @@ As soon as registration opens, we will point to the official hackathon project s
 
 **Note: This schedule is tentative and subject to change based on the main hackathon program.**
 
-### Day 1 - Afternoon Session (after main hackathon opening)
+### Day 1 - Afternoon-ish Session (after main hackathon opening)
 BIDS activities begin after the main OHBM hackathon opening session.
 
 - **Welcome and Introduction to BIDS**
@@ -33,20 +33,19 @@ BIDS activities begin after the main OHBM hackathon opening session.
   - Overview of the BEP process
   - Spotlight on active BEPs seeking community input
   - Q&A and discussion
+
+**Note**: Hackathon project pitches will be presented during the main event sessions.
+
+### Day 2 - Full Day
 - **BEP Deep Dives**
   - Detailed presentations of specific BEPs
   - Technical discussions and implementation considerations
 - **Hackathon Work Session**
   - Begin work on selected projects
   - Mentors available for guidance
-
-**Note**: Hackathon project pitches will be presented during the main event sessions.
-
-### Day 2 - Full Day
-- **Morning Session**: Continue hackathon work
   - Project development and collaboration
   - Mentors available for guidance
-- **Afternoon Session**: BIDS Maintainers and Steering Group Meeting
+- **Afternoonish Session**: BIDS Maintainers and Steering Group Meeting
   - *Non-public, dedicated to BIDS maintainers and steering group*
   - Internal discussions and planning
   - Continue through early Day 3
