@@ -63,7 +63,7 @@ BIDS activities begin after the main OHBM hackathon opening session.
 The BIDS schema is the machine-readable representation of the BIDS specification.
 
 - **Repository**: [bids-standard/bids-specification](https://github.com/bids-standard/bids-specification)
-- **Documentation**: [BIDS Specification](https://bids-specification.readthedocs.io/)
+- **Documentation**: [bidsschematools package docs](https://bidsschematools.readthedocs.io/en/latest/)
 - **Key Focus Areas**:
   - Schema validation and tooling improvements
   - Enhanced metadata specifications
