@@ -136,7 +136,7 @@ Have an idea or want to discuss a potential project?
 
 ### Getting Started with BIDS
 - [BIDS Specification](https://bids-specification.readthedocs.io/)
-- [BIDS Starter Kit](https://bids-standard.github.io/bids-starter-kit/)
+- [BIDS Starter Kit](https://bids.neuroimaging.io/getting_started/)
 - [BIDS Examples](https://github.com/bids-standard/bids-examples)
 
 ### Contributing to BIDS
