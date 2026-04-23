@@ -4,13 +4,15 @@ Welcome to the Brain Imaging Data Structure (BIDS) participation in the OHBM Bra
 
 ## Overview
 
-BIDS is participating in the OHBM hackathon to showcase ongoing developments, gather community feedback, and foster collaboration on advancing neuroimaging data standards. Our activities will present various ongoing developments including schema enhancements and BIDS Extension Proposals (BEPs), with opportunities to contribute through hackathon projects.
+BIDS is participating in the [OHBM hackathon](https://ohbm.github.io/hackathon2026/) to showcase ongoing developments, gather community feedback, and foster collaboration on advancing neuroimaging data standards. Our activities will present various ongoing developments including schema enhancements and BIDS Extension Proposals (BEPs), with opportunities to contribute through hackathon projects.
 
 Reference: [OHBM Hackathon 2025 Website](https://ohbm.github.io/hackathon2025/)
 
 ## How to Participate
 
-As soon as registration opens, we will point to the official hackathon project submissions. In the meantime:
+
+
+[Link to the official hackathon project submissions](https://github.com/ohbm/hackathon2026/issues/new?labels=HackTrack%20Project&template=brainhack-hacktrack-project.yml&title=%3CMy%20Project%20Name%3E). Alternatively one can:
 - **File an issue** in this repository to propose or discuss project ideas
 - **Open a pull request** to improve or add to these materials (README, documentation, etc.)
 - Check out [previous year's hackathon projects](https://ohbm.github.io/hackathon2025/) for inspiration
