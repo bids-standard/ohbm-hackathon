@@ -47,13 +47,13 @@ BIDS activities begin after the main OHBM hackathon opening session.
   - Mentors available for guidance
   - Project development and collaboration
   - Mentors available for guidance
-- **Afternoonish Session**: BIDS Maintainers and Steering Group Meeting
+- **Afternoonish Session**: BIDS Maintainers and Steering Group Meeting  **[internal]**
   - *Non-public, dedicated to BIDS maintainers and steering group*
   - Internal discussions and planning
   - Continue through early Day 3
 
 ### Day 3 - Morning and Afternoon
-- **Morning Session**: BIDS Maintainers and Steering Group Meeting (continued)
+- **Morning Session**: BIDS Maintainers and Steering Group Meeting (continued) **[internal]**
   - Wrap up internal discussions
 - **Afternoon Session**: Join Main BrainHack Event
   - Participate in final presentations and community activities
